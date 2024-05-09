@@ -83,7 +83,7 @@ public class About extends javax.swing.JFrame {
 
         jLabel5.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(153, 255, 255));
-        jLabel5.setText("Nion");
+        jLabel5.setText("Hamza");
         jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 170, 176, -1));
 
         jLabel6.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
@@ -158,28 +158,28 @@ public class About extends javax.swing.JFrame {
 
         jLabel18.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel18.setForeground(new java.awt.Color(0, 255, 255));
-        jLabel18.setText("21224103024");
+        jLabel18.setText("21224103107");
         jPanel1.add(jLabel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 210, 124, -1));
 
         jLabel19.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel19.setForeground(new java.awt.Color(0, 255, 255));
-        jLabel19.setText("nionforazi@gmail.com");
+        jLabel19.setText("amirhamza@gmail.com");
         jPanel1.add(jLabel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 240, -1, -1));
 
         jLabel20.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel20.setForeground(new java.awt.Color(0, 255, 255));
         jLabel20.setText("tahmidbin@gmail.com");
-        jPanel1.add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 350, -1, -1));
+        jPanel1.add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 360, -1, -1));
 
         jLabel21.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel21.setForeground(new java.awt.Color(0, 255, 255));
         jLabel21.setText("21224103102");
-        jPanel1.add(jLabel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 320, 124, -1));
+        jPanel1.add(jLabel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 330, 124, -1));
 
         jLabel22.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jLabel22.setForeground(new java.awt.Color(153, 255, 255));
         jLabel22.setText("Tahmid");
-        jPanel1.add(jLabel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 280, 176, -1));
+        jPanel1.add(jLabel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 290, 176, -1));
 
         jLabel23.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Image/BUBT-Logo(1).png"))); // NOI18N
         jPanel1.add(jLabel23, new org.netbeans.lib.awtextra.AbsoluteConstraints(680, 40, -1, -1));
